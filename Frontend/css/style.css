@@ -7,7 +7,7 @@
     list-style: none;
 }
 body{
-    background: url('/Frontend/img/bg.jpg');
+    background: url('../img/bg.jpg');
     background-color: rgba(0, 0, 0, 0.240);
     background-blend-mode: soft-light ;
     background-size: cover;
